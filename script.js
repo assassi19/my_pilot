@@ -124,10 +124,10 @@ const CONFIG = {
       ],
     },
     {
-      question: 'When you weren’t feeling well and I asked what I could do for you, you said…',
+      question: 'what is the one thing I should do to make you happy?',
       options: [
-        { text: '“Bring me chocolate.”', reaction: 'Noted for the future. But that’s not what you said.' },
-        { text: '“Leave me alone.”', reaction: 'You’ve never said that to me. Try again. 😄' },
+        { text: '“Bring me chocolate.”', reaction: 'Noted for the future. But with a twist of my personality.' },
+        { text: '“Leave me alone.”', reaction: 'Not gonna happen 🙅. Try again. 😄' },
         { text: '“You just miss me, that’s enough.”', reaction: 'So that’s exactly what I’ve been doing. Full time. Overtime, honestly.', best: true },
       ],
     },
@@ -135,8 +135,8 @@ const CONFIG = {
 
   /* ---------- 4. The accidental confession ---------- */
   confession: {
-    messages: ['I love you.', 'Wait.', 'I didn’t mean to say that.', 'Ignore that. Network issue.'],
-    question: 'How many times has this happened?',
+    messages: ['I love you.', 'Wait.', 'You were not suppose to hear that.', 'Ignore that. but i do mean it 🥺.'],
+    question: 'How many times have I said Love you to you 🙈?',
     options: [
       { text: 'Once.', reaction: 'Once? That’s very generous of you. It’s been more than once.' },
       { text: 'Twice.', reaction: 'Twice is the official number. The unofficial number is classified.' },
