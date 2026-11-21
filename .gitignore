@@ -1,0 +1,5 @@
+assets/originals/
+.DS_Store
+# Private brief with backstory. Keep it off the public site.
+agents.md
+AGENTS.md
